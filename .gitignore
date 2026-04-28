@@ -1,0 +1,13 @@
+# Change your main branch name to 'main' (if it isn't already)
+git branch -M main
+
+# Link your local repo to GitHub (Replace YOUR-USERNAME and YOUR-REPO)
+git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git
+
+# Push your code to GitHub
+git push -u origin main
+
+
+
+
+
